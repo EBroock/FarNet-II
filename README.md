@@ -17,7 +17,7 @@ This repository contains a production test for FarNet-II:
 each one with a batch of sequences of phase-shift 
 maps sections, for dates outside the training set 
 used to train the model (training set takes dates 
-from April 12, 2011 to November 27, 2012, and January 
+from April 12, 2011 to November 27, 2012, and from January 
 2, 2013 to August 18, 2014). Dates on the name are the 
 dates of the central element of the sequence of the 
 first and last sequence on the file.
