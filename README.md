@@ -5,7 +5,7 @@ FarNet-II is a deep learning model that improves
 the detection of activity on the farside of the Sun
 using farside phase-shift maps as an input.
 
-The reliability of th model is tested by comparing the
+The reliability of the model is tested by comparing the
 outputs with binary activity masks extracted from 
 STEREO EUV images of the farside.
 
